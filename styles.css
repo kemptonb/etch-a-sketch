@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding 0;
+    border: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    height: 40em;
+    width: 40em;
+    background-color: red;
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+}
+
+.row-div {
+    background-color: blue;
+    border-style: solid;
+    border-color: white;
+    border-width:thin;
+    
+}   
+
+.row-div:hover {
+    background-color: red;
+}
