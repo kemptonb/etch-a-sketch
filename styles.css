@@ -1,6 +1,5 @@
 html, body {
     margin: 0;
-    /*padding: 0;*/
     border: 0;
     height: 100%;
     display: flex;
@@ -22,6 +21,5 @@ html, body {
     background-color: white;
     border-style: solid;
     border-color: black;
-    border-width:thin;
-    
+    border-width:thin;  
 }   
