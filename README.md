@@ -8,7 +8,7 @@ Skills demonstrated:
 --Flexbox UI
 --Interpolation of prompt input var assigned to DOM style alteration
 
-All content is rendered using JavaScript DOM manipulation. A loop renders a 16 x 16 square grid ordered with flexbox. Each div in the grid has a mouse-over event listener that marking black any square the mouse hovers over. 
+All content is rendered using JavaScript DOM manipulation. A loop renders a 16 x 16 square grid ordered with flexbox. Each div in the grid has a mouse-over event listener marking black any square the mouse hovers over. 
 
 If the user clicks once, the div squares receive a background of white, returning the grid to its default, unmarked state.  
 

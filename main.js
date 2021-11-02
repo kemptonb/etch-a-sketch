@@ -11,7 +11,7 @@ document.body.appendChild(container);
 //Create div
 createGrid();
 
-//Reset background header text to black slate
+//Reset background header text to blank slate
 const inst = document.createElement("h3");
 inst.textContent = "CLICK ANYWHERE TO RESET";
 document.body.appendChild(inst);
